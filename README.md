@@ -37,3 +37,6 @@ dataset = version.download("yolov8")
 
 ### CODE VERSION3.0
 - ICSUv3.py
+
+### PUBLICATION
+- RICHDRAFT.pdf

@@ -1,1 +1,1 @@
-# RICH_x_YOLOv8
+# RICH_x_ICSU

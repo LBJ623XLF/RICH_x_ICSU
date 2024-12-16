@@ -43,4 +43,4 @@ dataset = version.download("yolov8")
 
 ### SHOW
 ![IMG_0132](https://github.com/user-attachments/assets/cebceb9d-b149-4afd-8a52-43fc8d36b7d9 |width="960")
-<img src="[https://github.com/favicon.ico](https://github.com/user-attachments/assets/cebceb9d-b149-4afd-8a52-43fc8d36b7d9)" width="960">
+<img src="[https://github.com/favicon.ico](https://github.com/user-attachments/assets/cebceb9d-b149-4afd-8a52-43fc8d36b7d9/IMG_0132)" width="960">

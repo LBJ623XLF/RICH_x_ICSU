@@ -42,5 +42,5 @@ dataset = version.download("yolov8")
 - RICHDRAFT.pdf
 
 ### SHOW
-# ![IMG_0132](https://github.com/user-attachments/assets/31641e68-23e0-4f8a-8fcf-e46669660d01)
+
 <img src="[https://your-image-url.type](https://github.com/user-attachments/assets/31641e68-23e0-4f8a-8fcf-e46669660d01)" width="100" height="100">

@@ -39,6 +39,8 @@ dataset = version.download("yolov8")
 - config.txt
 
 ### VIDEO
+[![Demo Video](https://img.youtube.com/vi/blKOrb_HNVc/0.jpg)](https://www.youtube.com/watch?v=blKOrb_HNVc)
+
 - https://youtu.be/blKOrb_HNVc?si=rGclgeElXlvIlBac
 - https://youtu.be/HnkFMYtl7_g?si=mdj1DZ3zVD90e3Hq
 

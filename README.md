@@ -39,8 +39,8 @@ dataset = version.download("yolov8")
 - config.txt
 
 ### VIDEO
-https://youtu.be/blKOrb_HNVc?si=rGclgeElXlvIlBac
-https://youtu.be/HnkFMYtl7_g?si=mdj1DZ3zVD90e3Hq
+- https://youtu.be/blKOrb_HNVc?si=rGclgeElXlvIlBac
+- https://youtu.be/HnkFMYtl7_g?si=mdj1DZ3zVD90e3Hq
 
 ### CODE VERSION3.0
 - ICSUv4.py

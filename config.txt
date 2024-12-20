@@ -1,0 +1,6 @@
+task: framing
+tool_needed: toolgun
+holding_tool: yes
+keypoints_used: 5, 11, 13
+angle_threshold: 100
+

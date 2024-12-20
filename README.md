@@ -35,8 +35,14 @@ dataset = version.download("yolov8")
 
 ## INDUSTRIALIZED CONSTRUACTION SCENE UNDERSTANDING
 
+### CONFIG
+- config.txt
+
+### VIDEO
+[- Construction Framing](https://youtu.be/HnkFMYtl7_g?si=tDbjpMpzscGyE43R)
+
 ### CODE VERSION3.0
-- ICSUv3.py
+- ICSUv4.py
 
 ### PUBLICATION
 - RICHDRAFT.pdf

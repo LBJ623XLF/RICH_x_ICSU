@@ -40,9 +40,7 @@ dataset = version.download("yolov8")
 
 ### VIDEO
 [![Demo Video](https://img.youtube.com/vi/blKOrb_HNVc/0.jpg)](https://www.youtube.com/watch?v=blKOrb_HNVc)
-
-- https://youtu.be/blKOrb_HNVc?si=rGclgeElXlvIlBac
-- https://youtu.be/HnkFMYtl7_g?si=mdj1DZ3zVD90e3Hq
+[![Demo Video](https://img.youtube.com/vi/HnkFMYtl7_g/0.jpg)](https://www.youtube.com/watch?v=HnkFMYtl7_g)
 
 ### CODE VERSION3.0
 - ICSUv4.py

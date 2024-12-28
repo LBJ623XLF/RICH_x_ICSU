@@ -51,7 +51,6 @@ dataset = version.download("yolov8")
 
 ### PUBLICATION
 - RICHDRAFT.pdf
-![New Project - Made with Clipchamp](https://github.com/user-attachments/assets/79a8c0eb-3c47-43e0-8cb3-8e76d581763f)
 
 ### SHOWTIME
 <a href="https://uflorida-my.sharepoint.com/:v:/g/personal/xulinfeng_ufl_edu/ERlkpXNeRFBLsz0c_yeq2B8BWgNTkdiSj3zLnxLxeNo08Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=GyNJHE">

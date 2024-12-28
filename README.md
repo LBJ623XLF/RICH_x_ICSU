@@ -25,6 +25,10 @@ project = rf.workspace("test-vongh").project("awkward-posture-of-human")
 version = project.version(3)
 dataset = version.download("yolov8")
 ```
+
+### TRAIN
+- TRAIN.py
+
 ## MODEL
 
 ### TOOL
@@ -42,7 +46,7 @@ dataset = version.download("yolov8")
 [![Demo Video](https://img.youtube.com/vi/blKOrb_HNVc/0.jpg)](https://www.youtube.com/watch?v=blKOrb_HNVc)
 [![Demo Video](https://img.youtube.com/vi/HnkFMYtl7_g/0.jpg)](https://www.youtube.com/watch?v=HnkFMYtl7_g)
 
-### CODE VERSION3.0
+### CODE VERSION4.0
 - ICSUv4.py
 
 ### PUBLICATION

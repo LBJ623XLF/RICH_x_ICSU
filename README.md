@@ -55,7 +55,7 @@ dataset = version.download("yolov8")
 
 ### SHOWTIME
 <a href="https://uflorida-my.sharepoint.com/:v:/g/personal/xulinfeng_ufl_edu/ERlkpXNeRFBLsz0c_yeq2B8BWgNTkdiSj3zLnxLxeNo08Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=GyNJHE">
-  <img src="https://github.com/user-attachments/assets/31641e68-23e0-4f8a-8fcf-e46669660d01" alt="Demo Image" style="width:1000px;">
+  <img src="https://github.com/user-attachments/assets/79a8c0eb-3c47-43e0-8cb3-8e76d581763f" alt="Demo Image" style="width:1000px;">
 </a>
 
 

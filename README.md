@@ -53,8 +53,7 @@ dataset = version.download("yolov8")
 - RICHDRAFT.pdf
 
 ### SHOWTIME
-<a href="https://uflorida-my.sharepoint.com/:v:/g/personal/xulinfeng_ufl_edu/ERlkpXNeRFBLsz0c_yeq2B8BWgNTkdiSj3zLnxLxeNo08Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=GyNJHE">
+<a href="https://uflorida-my.sharepoint.com/:v:/g/personal/xulinfeng_ufl_edu/EXCJN0Z2U2FMrkVhWOUK7gIBUbDMBDlSAA6CUmPX7Kaq-A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Z5s1h8">
   <img src="https://github.com/user-attachments/assets/79a8c0eb-3c47-43e0-8cb3-8e76d581763f" alt="Demo Image" style="width:1000px;">
 </a>
-
 

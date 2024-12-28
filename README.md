@@ -50,7 +50,7 @@ dataset = version.download("yolov8")
 - ICSUv4.py
 
 ### PUBLICATION
-- RICHDRAFT.pdf
+- [RICHDRAFTv2.5.pdf](https://www.overleaf.com/project/676251175b52cb44758793fb)
 
 ### SHOWTIME
 <a href="https://uflorida-my.sharepoint.com/:v:/g/personal/xulinfeng_ufl_edu/EXCJN0Z2U2FMrkVhWOUK7gIBUbDMBDlSAA6CUmPX7Kaq-A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Z5s1h8">

@@ -22,7 +22,7 @@ dataset = version.download("yolov8")
 from roboflow import Roboflow
 rf = Roboflow(api_key="7idEzKSCpPKLTJwlUp3j")
 project = rf.workspace("test-vongh").project("awkward-posture-of-human")
-version = project.version(3)
+version = project.version(4)
 dataset = version.download("yolov8")
 ```
 

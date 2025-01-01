@@ -10,7 +10,7 @@
 from roboflow import Roboflow
 rf = Roboflow(api_key="7idEzKSCpPKLTJwlUp3j")
 project = rf.workspace("yolov11-midrp").project("hoi-gmd2i")
-version = project.version(4)
+version = project.version(5)
 dataset = version.download("yolov8")
 ```
 
